@@ -1,0 +1,2 @@
+requests
+psutil==7.0.0
